@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdlib.h": "c",
+        "md5.h": "c",
+        "stdio.h": "c",
+        "system_error": "c",
+        "typeinfo": "c",
+        "math.h": "c"
+    }
+}
